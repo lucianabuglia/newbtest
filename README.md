@@ -1,2 +1,3 @@
 # newbtest
-learning how to deal w/ git
+Hewwo!
+I'm learning how to deal with git and github.
